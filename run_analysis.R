@@ -86,16 +86,6 @@ run_analysis = function(){
 	rm(tinyData2)
 }
 
-##plan: create a list of list
-## tinyData1.csv
-## 
-
-## tinyData2.csv
-## needs unique key <- paste(subject, activity, sep=",")
-##              z[[key]] <- list
-
-##
-
 write_data_to_csv = function(filename, tinyData) {
 
 	##check if filename exists
