@@ -26,6 +26,7 @@ Column names in tidyData1.csv
         6 LAYING
         
 NOTE: column from 3 to 42 are time domain signals were captured at a constant rate of 50 Hz.
+
 3. tBodyAcc_mean_X
 4. tBodyAcc_mean_Y
 5. tBodyAcc_mean_Z
@@ -68,6 +69,7 @@ NOTE: column from 3 to 42 are time domain signals were captured at a constant ra
 42. tBodyGyroJerkMag_std
 
 NOTE: column from 43 to 81 are frequency domain signals. 
+
 43. fBodyAcc_mean_X
 44. fBodyAcc_mean_Y
 45. fBodyAcc_mean_Z
